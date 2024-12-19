@@ -1,0 +1,30 @@
+{
+  "files": [
+    {
+      "name": "image1.jpg",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/text1.txt",
+      "last_modified": "2024-12-20T15:19:00Z"
+    },
+    {
+      "name": "image2.jpg",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/text2.txt",
+      "last_modified": "2024-12-20T15:19:00Z"
+    },
+    {
+      "name": "image3.jpg",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/text3.txt",
+      "last_modified": "2024-12-21T15:19:00Z"
+    },
+    {
+      "name": "image4.jpg",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/text4.txt",
+      "last_modified": "2024-12-21T15:19:00Z"
+    },
+    {
+      "name": "image5.jpg",
+      "url": "https://c3dss-eink-einkadmin-webapp-ppkzyipf.azurewebsites.net/binfiles/text4.txt",
+      "last_modified": "2024-12-21T15:19:00Z"
+    }
+   
+  ]
+}
