@@ -1,5 +1,6 @@
 {
-  "header_text": "IDEA ROOM - 02",
+  "header_text1": "IDEA ROOM - 02",
+  "header_text2": "02-12-2024",
   "main_text1": "paka"
   "main_text2": "sorry"
   "main_name": "sorry madam"
@@ -11,7 +12,6 @@
   "second_time1": "02.00"
   "second_time2": "01.00"
   
-  "date_text": "02-12-2024",
   "lines": [
     { "time11": "16.00", "time12": "11.00", "name1": "FINANCE OVERVIEW", "sub1": "Shehan Anushka" },
     { "time21": "12.00", "time22": "12.00", "name2": "FINANCE OVERVIEW", "sub2": "Shehan Anushka" },
