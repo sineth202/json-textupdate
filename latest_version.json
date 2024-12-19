@@ -12,14 +12,14 @@
   "second_time1": "02.00",
   "second_time2": "01.00",
   "lines": [
-    { "time11": "16.00", "time12": "11.00", "name1": "FINANCE OVERVIEW", "sub1": "Shehan Anushka" },
-    { "time21": "12.00", "time22": "12.00", "name2": "FINANCE OVERVIEW", "sub2": "Shehan Anushka" },
-    { "time31": "13.00", "time32": "14.00", "name3": "FINANCE OVERVIEW", "sub3": "Shehan Anushka" },
-    { "time41": "13.00", "time42": "15.00", "name4": "FINANCE OVERVIEW", "sub4": "Shehan Anushka" },
-    { "time51": "14.00", "time52": "16.00", "name5": "FINANCE OVERVIEW", "sub5": "Shehan Anushka" },
-    { "time61": "02.00", "time62": "10.00", "name6": "FINANCE OVERVIEW", "sub6": "Shehan Anushka" },
-    { "time71": "03.00", "time72": "09.00", "name7": "FINANCE OVERVIEW", "sub7": "Shehan Anushka" },
-    { "time81": "04.00", "time82": "08.00", "name8": "FINANCE OVERVIEW", "sub8": "Shehan Anushka" }
+    { "time11": "16.00", "time12": "11.00", "name1": "FINANCE OVW", "sub1": "Shehan Anushka" },
+    { "time21": "12.00", "time22": "12.00", "name2": "FINANCE OVIEW", "sub2": "Shhan Anushka" },
+    { "time31": "13.00", "time32": "14.00", "name3": "FIANCE OERVIEW", "sub3": "Shhan Anushka" },
+    { "time41": "13.00", "time42": "15.00", "name4": "FINANCE OERVIEW", "sub4": "Shehan Anushka" },
+    { "time51": "14.00", "time52": "16.00", "name5": "FIANCE OVERVIEW", "sub5": "Shhan Aushka" },
+    { "time61": "02.00", "time62": "10.00", "name6": "FIANCE OVRVIEW", "sub6": "Shehan Anuhka" },
+    { "time71": "03.00", "time72": "09.00", "name7": "FIANCE OVRVIEW", "sub7": "hehan Anushka" },
+    { "time81": "04.00", "time82": "08.00", "name8": "FINANCE OVERIEW", "sub8": "Sehan Anusha" }
   ],
   "last_update": "2024-12-12T11:20:00Z"
 }
