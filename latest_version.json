@@ -1,15 +1,26 @@
 {
   "header_text": "IDEA ROOM - 02",
+  "main_text1": "paka"
+  "main_text2": "sorry"
+  "main_name": "sorry madam"
+  "main_time1": "12.00"
+  "main_time2": "11.00"
+  "second_text1": "ane"
+  "second_text2": "pako"
+  "second_name": "anyyako"
+  "second_time1": "02.00"
+  "second_time2": "01.00"
+  
   "date_text": "02-12-2024",
   "lines": [
-    { "time11": "10.00", "time12": "10.00", "name1": "FINANCE OVERVIEW", "sub1": "Shehan Anushka" },
-    { "time21": "10.00", "time22": "10.00", "name2": "FINANCE OVERVIEW", "sub2": "Shehan Anushka" },
-    { "time31": "10.00", "time32": "10.00", "name3": "FINANCE OVERVIEW", "sub3": "Shehan Anushka" },
-    { "time41": "10.00", "time42": "10.00", "name4": "FINANCE OVERVIEW", "sub4": "Shehan Anushka" },
-    { "time51": "10.00", "time52": "10.00", "name5": "FINANCE OVERVIEW", "sub5": "Shehan Anushka" },
-    { "time61": "10.00", "time62": "10.00", "name6": "FINANCE OVERVIEW", "sub6": "Shehan Anushka" },
-    { "time71": "10.00", "time72": "10.00", "name7": "FINANCE OVERVIEW", "sub7": "Shehan Anushka" },
-    { "time81": "10.00", "time82": "10.00", "name8": "FINANCE OVERVIEW", "sub8": "Shehan Anushka" }
+    { "time11": "16.00", "time12": "11.00", "name1": "FINANCE OVERVIEW", "sub1": "Shehan Anushka" },
+    { "time21": "12.00", "time22": "12.00", "name2": "FINANCE OVERVIEW", "sub2": "Shehan Anushka" },
+    { "time31": "13.00", "time32": "14.00", "name3": "FINANCE OVERVIEW", "sub3": "Shehan Anushka" },
+    { "time41": "13.00", "time42": "15.00", "name4": "FINANCE OVERVIEW", "sub4": "Shehan Anushka" },
+    { "time51": "14.00", "time52": "16.00", "name5": "FINANCE OVERVIEW", "sub5": "Shehan Anushka" },
+    { "time61": "02.00", "time62": "10.00", "name6": "FINANCE OVERVIEW", "sub6": "Shehan Anushka" },
+    { "time71": "03.00", "time72": "09.00", "name7": "FINANCE OVERVIEW", "sub7": "Shehan Anushka" },
+    { "time81": "04.00", "time82": "08.00", "name8": "FINANCE OVERVIEW", "sub8": "Shehan Anushka" }
   ],
   "last_update": "2024-12-02T10:15:00Z"
 }
