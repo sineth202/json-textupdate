@@ -1,9 +1,9 @@
 {
-  "header_text1": "MEETING",
+  "header_text1": "MEETING1",
   "header_text2": "02-12-2024",
-  "main_text1": "MEETING",
-  "main_text2": "ROOM",
-  "main_name": "ashen",
+  "main_text1": "MEETING2",
+  "main_text2": "ROOM2",
+  "main_name": "ashen3",
   "main_time1": "13.00",
   "main_time2": "12.00",
   "second_text1": "MEETING2",
@@ -43,5 +43,5 @@
   "time82": "08.00", 
   "name8": "FINeANCE OVERIEW", 
   "sub8": "Sehane Anusha",
-  "last_update": "2024-12-30T11:20:00Z"
+  "last_update": "2024-12-31T11:20:00Z"
 }
